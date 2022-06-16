@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // No cambies los nombres de las funciones.
 
 function devolverPrimerElemento(array) {
@@ -263,7 +262,6 @@ module.exports = {
   breakStatement,
   continueStatement
 };
-=======
 // No cambies los nombres de las funciones.
 
 function devolverPrimerElemento(array) {
@@ -503,4 +501,3 @@ module.exports = {
   breakStatement,
   continueStatement
 };
->>>>>>> b782f215b4a74309ac1cb9bcc1473ee50592a855
