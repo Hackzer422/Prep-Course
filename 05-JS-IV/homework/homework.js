@@ -53,6 +53,7 @@ function eliminarPropiedad (objeto, unaPropiedad) {
   // Devuelve el objeto
   // Tu código:
   delete objeto[unaPropiedad];
+  console.log("hola");
   return objeto;
 }
 
